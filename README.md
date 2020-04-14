@@ -1,2 +1,2 @@
 # Data-Analytics
-Raccolta dati 
+Raccolta dati finalizzata all'utilizzo di GitHb
